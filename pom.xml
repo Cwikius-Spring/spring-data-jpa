@@ -22,7 +22,7 @@
 		<dist.key>DATAJPA</dist.key>
 
 		<eclipselink>2.7.5</eclipselink>
-		<hibernate>5.4.8.Final</hibernate>
+		<hibernate>5.6.14.Final</hibernate>
 		<mockito>2.19.1</mockito>
 		<vavr>0.10.3</vavr>
 		<hibernate.groupId>org.hibernate</hibernate.groupId>
@@ -38,7 +38,7 @@
 		<profile>
 			<id>hibernate-next</id>
 			<properties>
-				<hibernate>6.0.0-SNAPSHOT</hibernate>
+				<hibernate>5.6.14.Final</hibernate>
 			</properties>
 			<repositories>
 				<repository>
